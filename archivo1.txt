@@ -1,0 +1,4 @@
+Archivo de pruba
+Este es el inicio del archivo
+
+este es el final del archivo
