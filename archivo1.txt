@@ -1,4 +1,6 @@
 Archivo de pruba
 Este es el inicio del archivo
+Nombre:
+Alberto Moreno
 
 este es el final del archivo
