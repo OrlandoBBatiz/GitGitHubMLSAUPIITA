@@ -1,3 +1,9 @@
 # Aqui van mis funciones 
 esto son mis funciones
 coneccion con diseños
+
+fun1
+
+fun2
+
+fun3
