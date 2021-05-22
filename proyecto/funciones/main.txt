@@ -2,4 +2,12 @@
 esto son mis funciones
 coneccion con diseños
 
+<<<<<<< HEAD
 Hola soy Orlando Haciendo cambios en la rama de desarrollo
+=======
+fun1
+
+fun2
+
+fun3
+>>>>>>> 1ff63d21e2e3f3f92e881d929ff2cd62a76f76c6
