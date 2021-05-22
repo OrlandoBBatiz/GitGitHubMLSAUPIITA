@@ -1,1 +1,3 @@
 # Aqui van mis funciones 
+esto son mis funciones
+coneccion con diseños
